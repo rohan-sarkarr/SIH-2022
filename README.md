@@ -30,5 +30,5 @@
     Download the android mobile <strong> apk </strong> file from <a href="https://drive.google.com/drive/folders/1UjgFRtpwkNtD_xFpE0Lp8jEuZbvc8b9T?usp=sharing">here</a> </li>
   <li> Click on the downloaded apk, and install the app.</li>
   <li> In case, during installation of the app, a security pop-up shows up, allow installing the app from unknown source.<br><strong>[The app will not store any of your data neither has any malware in it]</strong> </li>
-  <li> To login as a test user, enter email:test@hdsc.com and password:test@123 </li>
+  <li> To login as a test user, enter <strong>Email:</strong> test@hdsc.com and <strong>Password:</strong> test@123 </li>
 </ol>
