@@ -1,7 +1,7 @@
 # SIH-2022
 
 ## Team ID : VITB-SIH22-39
-<strong>Team Name: LittleBuzzers </strong>
+<strong><h3>Team Name: LittleBuzzers</h3></strong>
 
 ## Process Flow Diagram 🧠
 <p align="center">
